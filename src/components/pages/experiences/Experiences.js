@@ -8,7 +8,7 @@ export default class Experiences extends Component {
           <div className="card-content">
             <h6>
               <strong>
-                <i className="fas fa-tools"></i>WORK EXPERIENCE
+                <i className="fas fa-tools"></i> WORK EXPERIENCE
               </strong>
             </h6>
             <hr />
@@ -23,6 +23,14 @@ export default class Experiences extends Component {
                   I am currently a freelance software engineer on Upwork whereby I have worked on 
                   a number of projects with both local and international clients. 
                   Here are some of the clients that I have worked with:
+                  <ul>
+                    <li style={{"font-weight":"bold"}}>Kevin $ Sons General Supply and services</li>
+                    <p>This is a company based in Kenya, that I worked with for 2 months, 
+                      and successfully delivered a web development project using python flask, Ajax, Javascript, jQuery, Bootstrap and Restful APIS.</p>
+                      <li style={{"font-weight":"bold"}}>Buy Kenya</li>
+                    <p>This is a company based in Kenya, that I worked with for 3 months, 
+                      and successfully delivered an e-commerce Flask Api + ReactJs frontend project</p>
+                  </ul>
                   </p>
                 </blockquote>
               </div>

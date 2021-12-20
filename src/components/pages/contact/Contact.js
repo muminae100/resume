@@ -14,11 +14,16 @@ export default class Contact extends Component {
               Karen, Nairobi, Kenya
             </p>
             <p className="grey-text text-lighten-3 pt">
-              Phone: <a style={{"color":"white"}} href="tel:+254741674737">+254741674737</a>
+              Phone: <br />
+              <i className="fa fa-phone"></i> <a style={{"color":"white"}} href="tel:+254741674737">+254741674737</a>
               <br />
-              Email: <a style={{"color":"white"}} href="mailto:smuminaetx100@gmail.com">smuminaetx100@gmail.com</a> 
               <br />
-              Website: <a style={{"color":"white"}} href="https://simon-portfolio.herokuapp.com/">Dev Simon</a>
+              Email: <br />
+              <i className="fa fa-envelope"></i> <a style={{"color":"white"}} href="mailto:smuminaetx100@gmail.com">smuminaetx100@gmail.com</a> 
+              <br />
+              <br />
+              Website: <br /> 
+              <i className="fa fa-globe"></i> <a style={{"color":"white"}} href="https://simon-portfolio.herokuapp.com/">simon-portfolio.herokuapp.com</a>
             </p>
           </div>
         </div>

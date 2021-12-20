@@ -17,18 +17,20 @@ export default class Profile extends Component {
                     <strong>Simon Mumina</strong>
                 </h2>
                 <h5 className="grey-text text-lighten-1">Full Stack Website Developer</h5>
-                <a href="#" target="blank">
-                    <i className="fab fa-facebook fa-2x"></i>
+                <p className="grey-text text-darken-3">Languages: English, Kiswahili</p>
+                <p className="grey-text text-darken-3">Nationality: Kenyan</p>
+                <br />
+                <div>
+                <a href="https://github.com/muminae100" target="blank">
+                    <i className="fa fa-github"></i>
                 </a>
-                <a href="https://twitter.com" target="blank">
-                    <i className="fab fa-twitter fa-2x"></i>
+                <a href="https://codepen.io/muminae100" target="blank">
+                    <i className="fa fa-codepen"></i>
                 </a>
-                <a href="https://linkedin.com" target="blank">
-                    <i className="fab fa-linkedin fa-2x"></i>
+                <a href="https://www.linkedin.com/in/simon-mumina-209000213/" target="blank">
+                    <i className="fa fa-linkedin"></i>
                 </a>
-                <a href="https://github.com" target="blank">
-                    <i className="fab fa-github fa-2x"></i>
-                </a>
+              </div>
             </div>
         </div>
         <div className="card light-blue darken-4 z-depth-0">

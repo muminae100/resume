@@ -8,7 +8,7 @@ export default class References extends Component {
           <div className="card-content">
             <h6>
               <strong>
-                <i className="fas fa-tools"></i>References
+                <i className="fas fa-address-card"></i> References
               </strong>
             </h6>
             <hr />

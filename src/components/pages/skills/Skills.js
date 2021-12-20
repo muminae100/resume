@@ -10,11 +10,11 @@ export default class Skills extends Component {
               <strong># PERSONAL SKILLS</strong>
           </h6>
           <hr/>
-          <div style={{"color":"white"}} className="row pt">
+          <div style={{"color":"white","margin-left":"4px"}} className="row pt">
             <ul>
-              <li>Good communication skills</li>
-              <li>Prompt action on feedback and attention to detail</li>
-              <li>Effective team player and leader</li>
+              <li> Good communication skills</li>
+              <li> Prompt action on feedback and attention to detail</li>
+              <li> Effective team player and leader</li>
             </ul>
           </div>
             <h6 className="white-text">
@@ -23,13 +23,13 @@ export default class Skills extends Component {
             <hr />
             <div className="row pt">
               <div className="col m6 s12">
-                <p className="grey-text text-lighten-3">HTML, SCSS, Bootstrap and TailwindCSS</p>
+                <p className="grey-text text-lighten-3">HTML, CSS, SCSS, Bootstrap and TailwindCSS</p>
                 <div className="progress grey">
                   <div className="determinate white" style={{ width: '95%'}}></div>
                 </div>
               </div>
               <div className="col m6 s12">
-                <p className="grey-text text-lighten-3">React, React/Redux, React Hooks, Rest APIs and GraphQL.</p>
+                <p className="grey-text text-lighten-3">React, React Redux, ES6 JavaScript, jQuery, Ajax, Rest APIs and GraphQL.</p>
                 <div className="progress grey">
                   <div className="determinate white" style={{ width: '95%'}}></div>
                 </div>
@@ -43,7 +43,7 @@ export default class Skills extends Component {
                 </div>
               </div>
               <div className="col m6 s12">
-                <p className="grey-text text-lighten-3">Django  and Django Framework</p>
+                <p className="grey-text text-lighten-3">Django  and Django REST Framework</p>
                 <div className="progress grey">
                   <div className="determinate white" style={{ width: '85%'}}></div>
                 </div>

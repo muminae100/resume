@@ -13,18 +13,17 @@ export default class About extends Component {
             <p className="grey-text text-darken-3">Languages: English, Kiswahili</p>
             <p className="grey-text text-darken-3">Nationality: Kenyan</p>
             <br />
-                <a href="https://facebook.com" target="blank">
-                    <i className="fab fa-facebook"></i>
+            <div>
+                <a href="https://github.com/muminae100" target="blank">
+                    <i className="fa fa-github"></i>
                 </a>
-                <a href="https://twitter.com" target="blank">
-                    <i className="fab fa-twitter"></i>
+                <a href="https://codepen.io/muminae100" target="blank">
+                    <i className="fa fa-codepen"></i>
                 </a>
-                <a href="https://linkedin.com" target="blank">
-                    <i className="fab fa-linkedin"></i>
+                <a href="https://www.linkedin.com/in/simon-mumina-209000213/" target="blank">
+                    <i className="fa fa-linkedin"></i>
                 </a>
-                <a href="https://github.com" target="blank">
-                    <i className="fab fa-github"></i>
-                </a>
+              </div>
           </div>
         </div>
       </div>

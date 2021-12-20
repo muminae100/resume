@@ -8,7 +8,7 @@ export default class Hobbies extends Component {
           <div className="card-content">
             <h6>
               <strong>
-                <i className="fas fa-tools"></i>Hobbies
+                <i className="fas fa-headphones"></i> Hobbies
               </strong>
             </h6>
             <hr />
