@@ -6,6 +6,8 @@ import Skills from "../../components/pages/skills/Skills";
 import Experiences from "../../components/pages/experiences/Experiences";
 import Educations from "../../components/pages/educations/Educations";
 import Portfolios from "../../components/pages/portfolios/Portfolios";
+import Hobbies from "../../components/pages/hobbies/Hobbies";
+import References from "../../components/pages/references/References";
 
 export default class Home extends Component {
   render() {
@@ -22,6 +24,8 @@ export default class Home extends Component {
                 <Educations />
                 <Experiences />
                 <Portfolios />
+                <Hobbies />
+                <References />
             </div>
         </div>
       </section>

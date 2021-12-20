@@ -14,34 +14,16 @@ export default class Educations extends Component {
               <div className="col s12">
                 <blockquote>
                   <h6 className="no-pad mt-bottom">
-                    <strong>MASTER OF SCIENCE</strong>
-                    <span>2019 - 2021</span>
+                    <strong>Bachelor of Science in Computer Science, 
+                      Cooperative University of Kenya, Nairobi</strong>
+                    <span>September 2016 - April 2021</span>
                   </h6>
                   <p className="pt">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam,
-                  earum doloribus dicta quod architecto, praesentium totam
-                  molestiae similique culpa repellat blanditiis nam facilis eius
-                  quaerat distinctio vitae, tenetur beatae repellendus?
+                  This course has helped to build my understanding of a wide range of software, 
+                  and technological ICT skills required by the industry
                   </p>
                 </blockquote>
               </div>
-            
-            
-              <div className="col s12">
-                <blockquote>
-                  <h6 className="no-pad mt-bottom">
-                    <strong>BACHELOR OF SCIENCE</strong>
-                    <span>2015 - 2019</span>
-                  </h6>
-                  <p className="pt">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam,
-                  earum doloribus dicta quod architecto, praesentium totam
-                  molestiae similique culpa repellat blanditiis nam facilis eius
-                  quaerat distinctio vitae, tenetur beatae repellendus?
-                  </p>
-                </blockquote>
-              </div>
-            
             
               <div className="col s12">
                 <blockquote>

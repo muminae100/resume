@@ -11,14 +11,14 @@ export default class Contact extends Component {
             </h6>
             <hr />
             <p className="grey-text text-lighten-3 pt">
-              123 Google Ave, San Francisco, USA
+              Karen, Nairobi, Kenya
             </p>
             <p className="grey-text text-lighten-3 pt">
-              Phone: +1 234 567 890
+              Phone: <a style={{"color":"white"}} href="tel:+254741674737">+254741674737</a>
               <br />
-              Email: Email@gmail.com
+              Email: <a style={{"color":"white"}} href="mailto:smuminaetx100@gmail.com">smuminaetx100@gmail.com</a> 
               <br />
-              Website: www.google.com
+              Website: <a style={{"color":"white"}} href="https://simon-portfolio.herokuapp.com/">Dev Simon</a>
             </p>
           </div>
         </div>

@@ -8,7 +8,7 @@ export default class Experiences extends Component {
           <div className="card-content">
             <h6>
               <strong>
-                <i className="fas fa-tools"></i> EXPERIENCE
+                <i className="fas fa-tools"></i>WORK EXPERIENCE
               </strong>
             </h6>
             <hr />
@@ -16,14 +16,13 @@ export default class Experiences extends Component {
               <div className="col s12">
                 <blockquote className="content-right">
                   <h6 className="no-pad mt-bottom">
-                    <storng>FULL STACK DEVELOPER</storng>
-                    <span>2018 - 2021</span>
+                    <storng>Freelance Software Engineer at Upwork</storng>
+                    <span>January 2021 - Current</span>
                   </h6>
                   <p className="pt">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam,
-                  earum doloribus dicta quod architecto, praesentium totam
-                  molestiae similique culpa repellat blanditiis nam facilis eius
-                  quaerat distinctio vitae, tenetur beatae repellendus?
+                  I am currently a freelance software engineer on Upwork whereby I have worked on 
+                  a number of projects with both local and international clients. 
+                  Here are some of the clients that I have worked with:
                   </p>
                 </blockquote>
               </div>
@@ -31,32 +30,17 @@ export default class Experiences extends Component {
               <div className="col s12">
                 <blockquote className="content-right">
                   <h6 className="no-pad mt-bottom">
-                    <storng>WEB DEVELOPER</storng>
-                    <span>2016 - 2018</span>
+                    <storng>Software Engineer at Andela, Nairobi</storng>
+                    <span>October 2019 - December 2020</span>
                   </h6>
                   <p className="pt">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam,
-                  earum doloribus dicta quod architecto, praesentium totam
-                  molestiae similique culpa repellat blanditiis nam facilis eius
-                  quaerat distinctio vitae, tenetur beatae repellendus?
+                  I was part of a team that worked on a product called Authors Haven. 
+                  This is a social platform that allows writers/article authors to express themselves and be sure
+                   to reach out to their target audience. I was also part of a full-stack development team that worked on a product called Tembea. This project was aimed at managing Andela's travel and transfers.
                   </p>
                 </blockquote>
               </div>
             
-              <div className="col s12">
-                <blockquote className="content-right">
-                  <h6 className="no-pad mt-bottom">
-                    <storng>WEB DESIGNER</storng>
-                    <span>2014 - 2016</span>
-                  </h6>
-                  <p className="pt">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam,
-                  earum doloribus dicta quod architecto, praesentium totam
-                  molestiae similique culpa repellat blanditiis nam facilis eius
-                  quaerat distinctio vitae, tenetur beatae repellendus?
-                  </p>
-                </blockquote>
-              </div>
             </div>
           </div>
         </div>
