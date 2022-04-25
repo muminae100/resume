@@ -27,9 +27,7 @@ export default class Experiences extends Component {
                     <li style={{"font-weight":"bold"}}>Kevin $ Sons General Supply and services</li>
                     <p>This is a company based in Kenya, that I worked with for 2 months, 
                       and successfully delivered a web development project using python flask, Ajax, Javascript, jQuery, Bootstrap and Restful APIS.</p>
-                      <li style={{"font-weight":"bold"}}>Buy Kenya</li>
-                    <p>This is a company based in Kenya, that I worked with for 3 months, 
-                      and successfully delivered an e-commerce Flask Api + ReactJs frontend project</p>
+                    <p>The website link: <a style={{"color":"blue"}} href='https://kevinsonssupply.co.ke/'>https://kevinsonssupply.co.ke/</a></p>
                   </ul>
                   </p>
                 </blockquote>
@@ -42,7 +40,7 @@ export default class Experiences extends Component {
                     <span>October 2019 - December 2020</span>
                   </h6>
                   <p className="pt">
-                  I was part of a team that worked on a product called Authors Haven. 
+                  During my internship program at Andela, I was part of a team that worked on a product called Authors Haven. 
                   This is a social platform that allows writers/article authors to express themselves and be sure
                    to reach out to their target audience. I was also part of a full-stack development team that worked on a product called Tembea. This project was aimed at managing Andela's travel and transfers.
                   </p>

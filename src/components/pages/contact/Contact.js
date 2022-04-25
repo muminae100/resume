@@ -15,15 +15,15 @@ export default class Contact extends Component {
             </p>
             <p className="grey-text text-lighten-3 pt">
               Phone: <br />
-              <i className="fa fa-phone"></i> <a style={{"color":"white"}} href="tel:+254741674737">+254741674737</a>
+              <i className="fa fa-phone"></i> <a style={{"color":"white"}} href="tel:+254741674737">+254 11817212</a>
               <br />
               <br />
               Email: <br />
-              <i className="fa fa-envelope"></i> <a style={{"color":"white"}} href="mailto:smuminaetx100@gmail.com">smuminaetx100@gmail.com</a> 
+              <i className="fa fa-envelope"></i> <a style={{"color":"white"}} href="mailto:smuminaetx100@gmail.com">simonmumina2000@gmail.com</a> 
               <br />
               <br />
               Website: <br /> 
-              <i className="fa fa-globe"></i> <a style={{"color":"white"}} href="https://simon-portfolio.herokuapp.com/">simon-portfolio.herokuapp.com</a>
+              <i className="fa fa-globe"></i> <a style={{"color":"white"}} href="https://devsimon.netlify.app/">simon-portfolio.herokuapp.com</a>
             </p>
           </div>
         </div>
