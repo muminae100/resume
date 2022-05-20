@@ -6,7 +6,7 @@ export default class Profile extends Component {
     return (
       <div>
         <div className="avatarImg">
-            <img style={{"width":"400px","height":"250px"}} className="circle responsive-img"
+            <img style={{"width":"300px","height":"250px"}} className="circle responsive-img"
             src={ImgProfile}
             alt="Simon"
             />
