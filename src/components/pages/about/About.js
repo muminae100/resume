@@ -9,7 +9,7 @@ export default class About extends Component {
             <h2 className="grey-text text-darken-3">
               <strong>Simon Mumina</strong>
             </h2>
-            <h5 className="grey-text text-darken-1">Full Stack Web Developer</h5>
+            <h5 className="grey-text text-darken-1">Front-end Web Developer</h5>
             <p className="grey-text text-darken-3">Languages: English, Kiswahili</p>
             <p className="grey-text text-darken-3">Nationality: Kenyan</p>
             <br />

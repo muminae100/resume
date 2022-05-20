@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
-import ImgProfile from "../../images/simon1.jpg";
+import ImgProfile from "../../images/dev_simon.JPG";
 
 export default class Profile extends Component {
   render() {
     return (
       <div>
         <div className="avatarImg">
-            <img style={{"max-width":"400px","max-height":"200px"}} className="circle responsive-img"
+            <img style={{"width":"400px","height":"250px"}} className="circle responsive-img"
             src={ImgProfile}
             alt="Simon"
             />
@@ -16,7 +16,7 @@ export default class Profile extends Component {
                 <h2 className="grey-text text-lighten-3">
                     <strong>Simon Mumina</strong>
                 </h2>
-                <h5 className="grey-text text-lighten-1">Full Stack Website Developer</h5>
+                <h5 className="grey-text text-lighten-1">Frontend Website Developer</h5>
                 <p className="grey-text text-darken-3">Languages: English, Kiswahili</p>
                 <p className="grey-text text-darken-3">Nationality: Kenyan</p>
                 <br />

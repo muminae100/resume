@@ -37,19 +37,19 @@ export default class Skills extends Component {
             </div>
             <div className="row pt">
               <div className="col m6 s12">
-                <p className="grey-text text-lighten-3">Flask and Flask Restful</p>
+                <p className="grey-text text-lighten-3">Wordpress, Elementor and Woo Commerce</p>
                 <div className="progress grey">
                   <div className="determinate white" style={{ width: '90%'}}></div>
                 </div>
               </div>
               <div className="col m6 s12">
-                <p className="grey-text text-lighten-3">Django  and Django REST Framework</p>
+                <p className="grey-text text-lighten-3">UI/UX: Adobe XD, Figma</p>
                 <div className="progress grey">
                   <div className="determinate white" style={{ width: '85%'}}></div>
                 </div>
               </div>
             </div>
-            <div className="row pt">
+            {/* <div className="row pt">
               <div className="col m6 s12">
                 <p className="grey-text text-lighten-3">CI/CD: Github Actions, AWS, Heroku</p>
                 <div className="progress grey">
@@ -62,8 +62,8 @@ export default class Skills extends Component {
                   <div className="determinate white" style={{ width: '85%'}}></div>
                 </div>
               </div>
-            </div>
-            <div className="row pt">
+            </div> */}
+            {/* <div className="row pt">
               <div className="col m6 s12">
                 <p className="grey-text text-lighten-3">Testing and linting: TravisCI</p>
                 <div className="progress grey">
@@ -76,7 +76,7 @@ export default class Skills extends Component {
                   <div className="determinate white" style={{ width: '85%'}}></div>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

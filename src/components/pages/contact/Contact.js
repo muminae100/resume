@@ -23,7 +23,7 @@ export default class Contact extends Component {
               <br />
               <br />
               Website: <br /> 
-              <i className="fa fa-globe"></i> <a style={{"color":"white"}} href="https://devsimon.netlify.app/">simon-portfolio.herokuapp.com</a>
+              <i className="fa fa-globe"></i> <a style={{"color":"white"}} href="https://devsimon.netlify.app/">https://devsimon.netlify.app/</a>
             </p>
           </div>
         </div>
