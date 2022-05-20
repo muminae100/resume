@@ -6,7 +6,7 @@ export default class Profile extends Component {
     return (
       <div>
         <div className="avatarImg">
-            <img style={{"width":"300px","height":"250px"}} className="circle responsive-img"
+            <img style={{"width":"450px","height":"200px"}} className="circle responsive-img"
             src={ImgProfile}
             alt="Simon"
             />
@@ -40,7 +40,7 @@ export default class Profile extends Component {
                 </h6>
                 <hr />
                 <p className="grey-text text-lighten-3 pt">
-                I am a passionate full stack software developer with over 3 years of experience in the field. 
+                I am a passionate front-end software developer with over 3 years of experience in the field. 
                 My main stack is Python and Javascript and I have immense experience also working with related 
                 technologies in architecture design. Throughout my time as a software developer, I have worked with 
                 different teams to create applications that optimized processes, saved on cost, and improved users' experience.

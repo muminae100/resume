@@ -16,7 +16,7 @@ export default class Educations extends Component {
                   <h6 className="no-pad mt-bottom">
                     <strong>Bachelor of Science in Computer Science, 
                       Cooperative University of Kenya, Nairobi</strong>
-                    <span style={{"margin-bottom":"5px","margin-top":"10px"}}>September 2016 - April 2021</span>
+                    <span style={{"margin-bottom":"5px","margin-top":"10px"}}>September 2016 - September 2020</span>
                   </h6>
                   <p className="pt">
                   This course has helped to build my understanding of a wide range of software, 
