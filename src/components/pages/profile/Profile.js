@@ -41,9 +41,11 @@ export default class Profile extends Component {
                 <hr />
                 <p className="grey-text text-lighten-3 pt">
                 I am a passionate front-end software developer with over 3 years of experience in the field. 
-                My main stack is Python and Javascript and I have immense experience also working with related 
-                technologies in architecture design. Throughout my time as a software developer, I have worked with 
-                different teams to create applications that optimized processes, saved on cost, and improved users' experience.
+                Throughout my time as a software developer, I have worked with 
+                different teams to create applications that optimized processes, saved on cost, and improved users' 
+                experience. I am equipped with a diverse and promising skill-set.  I am proficient in an assortment of technologies, 
+                including WordPress, 
+                Elementor, Woo Commerce, WIX, JavaScript, React and Adobe XD.
                 </p>
             </div>
         </div>
