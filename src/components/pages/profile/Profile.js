@@ -6,7 +6,7 @@ export default class Profile extends Component {
     return (
       <div>
         <div className="avatarImg">
-            <img style={{"width":"450px","height":"200px"}} className="circle responsive-img"
+            <img style={{"width":"200px","height":"200px"}} className="circle responsive-img"
             src={ImgProfile}
             alt="Simon"
             />
@@ -43,9 +43,7 @@ export default class Profile extends Component {
                 I am a passionate front-end software developer with over 3 years of experience in the field. 
                 Throughout my time as a software developer, I have worked with 
                 different teams to create applications that optimized processes, saved on cost, and improved users' 
-                experience. I am equipped with a diverse and promising skill-set.  I am proficient in an assortment of technologies, 
-                including WordPress, 
-                Elementor, Woo Commerce, WIX, JavaScript, React and Adobe XD.
+                experience. I am equipped with a diverse and promising skill-set.
                 </p>
             </div>
         </div>

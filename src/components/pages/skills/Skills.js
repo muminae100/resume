@@ -43,9 +43,9 @@ export default class Skills extends Component {
                 </div>
               </div>
               <div className="col m6 s12">
-                <p className="grey-text text-lighten-3">UI/UX: Adobe XD, Figma</p>
+                <p className="grey-text text-lighten-3">Some backend skilss in Express, Flask and Django.</p>
                 <div className="progress grey">
-                  <div className="determinate white" style={{ width: '85%'}}></div>
+                  <div className="determinate white" style={{ width: '65%'}}></div>
                 </div>
               </div>
             </div>

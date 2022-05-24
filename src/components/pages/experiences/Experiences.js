@@ -17,18 +17,22 @@ export default class Experiences extends Component {
                 <blockquote className="content-right">
                   <h6 className="no-pad mt-bottom">
                     <storng>Freelance Software Engineer at Upwork</storng>
-                    <span>January 2021 - Current</span>
+                    <span>January 2022 - Current</span>
                   </h6>
                   <p className="pt">
-                  I am currently a freelance software engineer on Upwork whereby I have worked on 
-                  a number of projects with both local and international clients. 
-                  Here are some of the clients that I have worked with:
-                  <ul>
-                    <li style={{"font-weight":"bold"}}>Kevin $ Sons General Supply and services</li>
-                    <p>This is a company based in Kenya, that I worked with for 2 months, 
-                      and successfully delivered a web development project using python flask, Ajax, Javascript, jQuery, Bootstrap and Restful APIS.</p>
-                    <p>The website link: <a style={{"color":"blue"}} href='https://kevinsonssupply.co.ke/'>https://kevinsonssupply.co.ke/</a></p>
-                  </ul>
+                  I am currently a freelance software developer on Upwork.
+                  </p>
+                </blockquote>
+              </div>
+
+              <div className="col s12">
+                <blockquote className="content-right">
+                  <h6 className="no-pad mt-bottom">
+                    <storng>Freelance Software Engineer at Nisc Cloud Kenya</storng>
+                    <span>January 2021 - October 2021</span>
+                  </h6>
+                  <p className="pt">
+                  It was a good experience to work at Nisc Cloud Kenya as a Frontend Software developer. 
                   </p>
                 </blockquote>
               </div>
